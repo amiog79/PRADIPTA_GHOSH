@@ -365,6 +365,8 @@ h2{
   <body>
     <h1>👇👇 Read Bengali Stories Below 👇👇</h1>
     <iframe src="Story.pdf" width="100%" height="3000px"></iframe>
+    
+    <a href="file:///P:/A%20HTML%20MY%20PROJECT/Story.pdf" style="background: black; color: yellow; font-size: 40px;"> OR CLICK HERE TO READ BENGALI STORY</a>
 
 
   </body>
