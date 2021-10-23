@@ -1002,7 +1002,7 @@ function showSlides() {
 <h1 style="font-size:80px;">বক্রেশ্বর নদীর বান</h1>
 
 <br></br>
-<iframe src="RIVER1.jpg" width="1550px" height="1200px"></iframe>
+<iframe src="RIVER1.jpg" width="950px" height="700px"></iframe>
   
 <p>
 Video courtesy of 
