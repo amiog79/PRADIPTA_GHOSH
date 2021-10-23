@@ -38,8 +38,8 @@
 
  <style>
   #clock {
-   font-size: 75px;
-   width: 455px;
+   font-size: 150px;
+   width: 860px;
    margin: 35px;
    text-align: center;
    background:yellow;
