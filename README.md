@@ -206,9 +206,9 @@ h2{
 
                         <div class="booth"> 
 
-                            <video id="video" width="950px" 
+                            <video id="video" width="100%" 
 
-                                height="700px" autoplay> 
+                                height="100%" autoplay> 
 
                             </video> 
 
