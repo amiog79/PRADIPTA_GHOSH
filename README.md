@@ -114,7 +114,7 @@ h2{
             color: black;
             background: yellow;
             text-align: center;
-            font-size: 50px;
+            font-size: 30px;
             transition: 1s;
             font-style:all;
         }
@@ -336,7 +336,7 @@ h2{
 
 <h3 style="font-size: 40px;">YOUTUBE VIDEO</h3>  
 
-<iframe width="700" height="800" src="https://www.youtube.com/embed/80OX5xMvJP4">
+<iframe width="750" height="800" src="https://www.youtube.com/embed/80OX5xMvJP4">
 </iframe>
 
 </body>
