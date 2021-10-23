@@ -336,7 +336,7 @@ h2{
 
 <h3 style="font-size: 40px;">YOUTUBE VIDEO</h3>  
 
-<iframe width="1500" height="800" src="https://www.youtube.com/embed/80OX5xMvJP4">
+<iframe width="700" height="800" src="https://www.youtube.com/embed/80OX5xMvJP4">
 </iframe>
 
 </body>
