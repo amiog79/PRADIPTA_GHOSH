@@ -997,6 +997,9 @@ function showSlides() {
   Your browser does not support HTML video.
 </video>
 
+  <br></br>
+<iframe src="Story.pdf" width="950px" height="700px"></iframe>
+  
 <p>
 Video courtesy of 
 <a href="https://www.covid19india.org" target="_blank" style="background: black; color:white;">CLICK HERE TO SHOW CORONA UPDATE IN INDIA</a>.
