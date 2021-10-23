@@ -1008,6 +1008,24 @@ function showSlides() {
 Video courtesy of 
 <a href="https://www.covid19india.org" target="_blank" style="background: black; color:white;">CLICK HERE TO SHOW CORONA UPDATE IN INDIA</a>.
 </p>
+  
+<!--ONLINE COMPILER-->
+
+
+<button onclick="location.href='https://www.jdoodle.com'" type="button" style=" color:yellow; font-size: 50px; 
+                                                                           text-align: center;">ONLINE COMPILER</button>
+
+<!--END ONLINE COMPILER-->
+
+
+
+
+<!--FACEBOOK-->
+<button onclick="location.href='https://www.facebook.com'" type="button" style=" color:yellow; font-size: 50px; 
+                                                                           text-align: center; float: right;">GO TO FACEBOOK</button>
+
+<!--END FACEBOOK-->                                                                           
+<br></br>  
 
 <center style="font-size:25px;background:red"><u><a style="color:white;">Privacy Policy</a></u>&nbsp;<u><a style="color:white">Terms & Conditions</a></u></center>
 <center style="font-size:25px;background:#17D4FE">Copyright &copy; By Pradipta Ghosh.com 2021</center>
