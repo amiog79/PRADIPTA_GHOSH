@@ -789,8 +789,6 @@ loadTrack(track_index);
 </script>
 
 <button onclick="location.href='https://www.youtube.com/channel/UC4xK1SCP7tia6k9lynuXFaA'" type="button" style=" color:white; font-size: 50px; text-align: center;">SUBSCRIBE MY YOUTUBE CHANNEL</button>
-<br></br>
-
 
 
  <center style="font-size:20px;background:red"><u><a style="color:white;">Privacy Policy</a></u>&nbsp;<u><a style="color:white">Terms & Conditions</a></u></center>
