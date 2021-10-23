@@ -32,8 +32,8 @@
 
  <style>
   #clock {
-   font-size: 80px;
-   width: 470px;
+   font-size: 120px;
+   width: 770px;
    margin: 35px;
    text-align: center;
    background:yellow;
