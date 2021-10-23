@@ -7,6 +7,12 @@
 
 <head> 
 
+  
+  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+  
     <title> 
 
         How to Integrate Webcam using 
@@ -293,6 +299,14 @@ h2{
         });   
 
     </script> 
+      
+      
+      <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
 
 </body> 
 
@@ -322,7 +336,7 @@ h2{
 
 <h3 style="font-size: 40px;">YOUTUBE VIDEO</h3>  
 
-<iframe width="950" height="700" src="https://www.youtube.com/embed/80OX5xMvJP4">
+<iframe width="1500" height="800" src="https://www.youtube.com/embed/80OX5xMvJP4">
 </iframe>
 
 </body>
@@ -364,7 +378,7 @@ h2{
   </head>
   <body>
     <h1>👇👇 Read Bengali Stories Below 👇👇</h1>
-    <iframe src="Story.pdf" width="100%" height="3000px"></iframe>
+    <iframe src="Story.pdf" width="100%" height="800px"></iframe>
     
 
   </body>
