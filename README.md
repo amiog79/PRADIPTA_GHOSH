@@ -893,7 +893,7 @@ img {vertical-align: middle;}
 
 
 h2{
-    font-size: 60px;
+    font-size: 80px;
     color: white;
 }
 
